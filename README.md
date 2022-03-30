@@ -1,16 +1,16 @@
 ## Membuat-list-Table-dan-Form
 
 # Membuat ordered list dan output nya
-![img](sspraktikum3.1.png)
-![img](sspraktikum3.2.png)
+![img](gambarpraktikum3/sspraktikum3.1.png)
+![img](gambarpraktikum3/sspraktikum3.2.png)
 
 # Membuat unodered List dan Output nya
-![img](sspraktikum3.3.png)
-![img](sspraktikum3.4.png)
+![img](gambarpraktikum3/sspraktikum3.3.png)
+![img](gambarpraktikum3/sspraktikum3.4.png)
 
 # Membuat Description List dan Output nya
-![img](sspraktikum3.5.png)
-![img](sspraktikum3.6.png)
+![img](gambarpraktikum3/sspraktikum3.5.png)
+![img](gambarpraktikum3/sspraktikum3.6.png)
 
 # Membuat Tabel
 <!DOCTYPE html>
@@ -28,17 +28,17 @@
 </body>
 </html>
 
-![img](sspraktikum3.7.png)
+![img](gambarpraktikum3/sspraktikum3.7.png)
 
 # Mengatur margin dan padding
-![img](sspraktikum3.8.png)
+![img](gambarpraktikum3/sspraktikum3.8.png)
 output nya
-![img](sspraktikum3.9.png)
+![img](gambarpraktikum3/sspraktikum3.9.png)
 
 # Menggabungkan sell data
-![img](sspraktikum3.10.png)
+![img](gambarpraktikum3/sspraktikum3.10.png)
 outputnya
-![img](sspraktikum3.11.png)
+![img](gambarpraktikum3/sspraktikum3.11.png)
 
 # Membuat Form
 <!DOCTYPE html>
@@ -55,15 +55,15 @@ outputnya
 </body>
 </html>
 
-![img](sspraktikum3.12.png)
-![img](sspraktikum3.13.png)
+![img](gambarpraktikum3/sspraktikum3.12.png)
+![img](gambarpraktikum3/sspraktikum3.13.png)
 outputnya
-![img](sspraktikum3.14.png)
+![img](gambarpraktikum3/sspraktikum3.14.png)
 
 # Menambahkan Style Pada Form
-![img](sspraktikum3.15.png)
+![img](gambarpraktikum3/sspraktikum3.15.png)
 Outputnya
-![img](sspraktikum3.16.png)
+![img](gambarpraktikum3/sspraktikum3.16.png)
 
 
 # Pertanyaan dan tugas
@@ -125,12 +125,12 @@ Dropdown menu
  </body>
 </html>
 
-![img](sspraktikum3.17.png)
-![img](sspraktikum3.18.png)
+![img](gambarpraktikum3/sspraktikum3.17.png)
+![img](gambarpraktikum3/sspraktikum3.18.png)
 
 Menambahkan CSS Style
-![img](sspraktikum3.19.png)
-![img](sspraktikum3.20.png)
+![img](gambarpraktikum3/sspraktikum3.19.png)
+![img](gambarpraktikum3/sspraktikum3.20.png)
 
 body{
     margin: 2% auto;
@@ -187,7 +187,7 @@ select {
 }
 
 Output Nya
-[img](sspraktikum3.21.png)
+[img](gambarpraktikum3/sspraktikum3.21.png)
 
 Alhamdulillah
 
