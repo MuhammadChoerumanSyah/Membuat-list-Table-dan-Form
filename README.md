@@ -187,7 +187,7 @@ select {
 }
 
 Output Nya
-[img](gambarpraktikum3/sspraktikum3.21.png)
+![img](gambarpraktikum3/sspraktikum3.21.png)
 
 Alhamdulillah
 
